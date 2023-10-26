@@ -1,5 +1,9 @@
 # MSE
 
+# Authors
+
+Rujia Bi, Michael Melnychuk, John Wiedenmann, Olaf P. Jensen
+
 # Background
 
 Marine fisheries management often employs total allowable catch (TAC) as a limit. The effectiveness of this approach hinges on monitoring capabilities and enforcement willingness. The actual catch might vary due to various factors, including economic incentives and multi-species TAC constraints.
