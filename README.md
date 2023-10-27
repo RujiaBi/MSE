@@ -1,6 +1,6 @@
 # MSE
 
-# Authors
+## Authors
 
 Rujia Bi, Michael Melnychuk, John Wiedenmann, Olaf P. Jensen
 
