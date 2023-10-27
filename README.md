@@ -1,5 +1,7 @@
 # MSE
 
+This repository is public and intended to share our work with individuals outside of our primary team. Feel free to explore, and if you have questions or feedback, please reach out!
+
 ## Authors
 
 Rujia Bi, Michael Melnychuk, John Wiedenmann, Olaf P. Jensen
